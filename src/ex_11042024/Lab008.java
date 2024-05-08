@@ -7,6 +7,7 @@ public class Lab008 {
         age = -1;
         age = age +2;
         System.out.println(age);
+        System.out.println("Hello Try");
 
     }
 }
